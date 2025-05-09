@@ -1,7 +1,7 @@
 
 import { ArrowRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-
+//test
 const HeroSection = () => {
   return (
     <section id="home" className="relative min-h-screen flex items-center">
@@ -42,7 +42,7 @@ const HeroSection = () => {
             </div>
           </div>
           
-          <div className="lg:w-1/2 mt-12 lg:mt-0 opacity-0 animate-fade-in" style={{animationDelay: '0.8s'}}>
+          <div className="lg:w-1/2 mt-12 lg:mt-0 opacity-0 animate-fade-in" style={{animationDelay: '0.7s'}}>
             <div className="relative">
               {/* Abstract AI visual */}
               <div className="relative w-full h-[386px] overflow-hidden rounded-xl glass animate-glow">
